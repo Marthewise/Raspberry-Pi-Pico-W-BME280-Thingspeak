@@ -8,3 +8,10 @@
 # You will need to write your WIFI SSID in the Line 17
 # You will need to write your WIFI Password in the line 18
 # You will neet to write your Thingspeak Write API Key in the line 45
+#
+# This project couldn't have been possible without the existence of these websites : 
+https://microcontrollerslab.com/esp32-micropython-bme280-sensor-thingspeak/
+#
+https://microcontrollerslab.com/bme280-raspberry-pi-pico-micropython-tutorial/
+#
+https://haibat.com/raspberry-pi-pico-file-directory-and-autorun/
